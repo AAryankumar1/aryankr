@@ -62,7 +62,7 @@ padding: 10px;
 	margin: 0 auto;
 }
 img{
-height: 200px;
+height: 500px;
 width: 100%;
 padding: 00px;
 }
@@ -71,11 +71,16 @@ padding: 00px;
   transition: 0.3s;
   width: 100%;
   border: 2px solid black;
-
 }
 
 p{
 	border: 5px solid black;
+
 }
+
+
+
+
+
 
 
